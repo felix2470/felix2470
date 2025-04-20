@@ -58,7 +58,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 ## **Certifications**  
 <div>
-
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
 <img src="https://img.shields.io/badge/CompTIA%20Security+-E62A2A?style=for-the-badge&logo=CompTIA&logoColor=white"/>
 </div>
 
