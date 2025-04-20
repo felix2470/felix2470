@@ -6,17 +6,19 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 ---
 
-## **Skills & Projects**  
+## **Skills   
 
-| **Skill**                                     | **Associated Project**  |
-|-----------------------------------------------|-------------------------|
-| SIEM Implementation & Log Analysis            | [SOC & Honeynet in Azure](#https://github.com/SancLogic/Soc-Honeynet-Azure) |
-| Network Traffic Monitoring & Attack Detection | [SOC & Honeynet in Azure](#https://github.com/SancLogic/Soc-Honeynet-Azure) |
-| Threat Hunting (MITRE Mappings)               | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) |
-| Incident Reporting & IOC Documentation        | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) |
+| **Skill**                                     | 
+|-----------------------------------------------|
+| SIEM Implementation & Log Analysis            | 
+| Network Traffic Monitoring & Attack Detection | 
+| Threat Hunting (MITRE Mappings)               | 
+| Incident Reporting & IOC Documentation        |
 
 ---
+## **Project**  
 
+---
 ## **Tools & Technologies**  
 
 ### **SIEM & Threat Detection**  
