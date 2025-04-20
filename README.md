@@ -10,6 +10,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 | **Skill**                                     | 
 |-----------------------------------------------|
+| Phishing Analysis
 | SIEM Implementation & Log Analysis            | 
 | Network Traffic Monitoring & Attack Detection | 
 | Threat Hunting (MITRE Mappings)               | 
