@@ -5,9 +5,10 @@
 I am passionate about cybersecurity, focusing on SOC operations, log analysis, and threat detection. I enjoy working with SIEM platforms like Microsoft Sentinel, ELK, and Splunk, analyzing security incidents, and developing detection rules. I am also exploring threat hunting, IOC enrichment, and endpoint security to enhance detection and response.
 
 ---
-##⚠️ Vulnerability Management and GRC Projects (coming soon)
+#⚠️ Vulnerability Management and GRC Projects (coming soon)
 ---
-
+#🚨 Security Operations and Threat Hunting Projects (coming soon)
+---
 ## **Skills   
 
 | **Skill**                                     | 
