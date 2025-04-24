@@ -7,7 +7,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 ---
 ⚠️ **Vulnerability Management and GRC Projects (coming soon)**
 
-[Vulnerability Management](https://github.com/felix2470/vulnerability-management-program/blob/main/README.md)
+- **[Vulnerability Management](https://github.com/felix2470/vulnerability-management-program/blob/main/README.md)**
 
 ---
 🚨 **Security Operations and Threat Hunting Projects (coming soon)**
