@@ -11,6 +11,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 ---
 🚨 **Security Operations and Threat Hunting Projects **
+- **Live SOC Threat Hunting Scenarios**
 ---
 ## **Skills   
 
