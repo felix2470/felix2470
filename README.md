@@ -12,6 +12,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 ---
 🚨 **Security Operations and Threat Hunting Projects **
 - **Live SOC Threat Hunting Scenarios**
+-  **[Scenario 1:  Unauthorized Tor-Browser Activities](https://github.com/felix2470/Threat-Hunting-Tor-Browser/edit/main/README.md)**
   
 ---
 ## **Skills   
