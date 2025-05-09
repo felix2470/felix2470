@@ -5,6 +5,7 @@
 I am passionate about cybersecurity, focusing on SOC operations, log analysis, and threat detection. I enjoy working with SIEM platforms like Microsoft Sentinel, ELK, and Splunk, analyzing security incidents, and developing detection rules. I am also exploring threat hunting, IOC enrichment, and endpoint security to enhance detection and response.
 
 ---
+## **Project's** 
 ## ⚠️ Vulnerability Management and GRC Projects 
 
 - **[Vulnerability Management](https://github.com/felix2470/vulnerability-management-program/blob/main/README.md)**
@@ -26,8 +27,8 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 | Alert Triage & Analysis                       |
 | Incident Response & IOC Documentation         |
 
----
-## **Project**  
+
+ 
 
 ---
 ## **Tools & Technologies**  
