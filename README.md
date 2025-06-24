@@ -15,6 +15,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 - **Live SOC Threat Hunting Scenarios**
 -  **[Scenario 1:  Unauthorized Tor-Browser Activities](https://github.com/felix2470/Threat-Hunting-Tor-Browser)**
 -  **[Phantom Hacker (CTF)](https://github.com/felix2470/phantom-hacker-CTF-)**
+-  **[Deep Access (CTF-2)](https://docs.google.com/document/d/1yu_CfumSjJUjzFc3zzQeuwpqGz7A4WSmyy8_pV5EdDg/edit?tab=t.0)**
 -  **[Scenario 2:  Fruteforce Attack(coming soon)]**
 -  
   
